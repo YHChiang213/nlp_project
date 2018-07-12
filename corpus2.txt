@@ -1,0 +1,563 @@
+“The work intended to be printed is transcribed by a careful writer
+upon thin transparent paper: the engraver glues each of these written
+sheets, with its face downwards, upon a smooth tablet of pear or
+apple tree, or some other hard wood; and then with gravers and other
+instruments, he cuts the wood away in all those parts upon which he
+finds nothing traced [as in the fac-simile[7] in the margin]; thus
+leaving the reversed characters ready for printing.... When once the
+blocks are engraved, the paper is cut, and the ink is ready, one man
+with his brush can, without fatigue, print ten thousand sheets in a
+day. The block to be printed must be placed level, and firmly fixed.
+The man must have two brushes; one of them of a stiffer kind, which he
+can hold in his hand, and use at either end. He dips this into the ink,
+and rubs the block with it; taking care not to wet it too much, nor to
+leave it too dry.... The second brush is used to rub over the paper
+with a small degree of pressure, that it may take the impression: this
+it does easily, for not being sized with alum, it receives the ink the
+instant it comes in contact with it. It is only necessary that the
+brush should be passed over every part of the sheet with a greater or
+smaller degree of pressure, and repeated in proportion as the printer
+finds there is more or less ink upon the block.”
+
+The number of copies which, according to Du Halde, a Chinese workman
+can print in a day, is greatly exaggerated. About four thousand, or
+four hundred an hour, is the utmost that the most expert workman would
+be able to throw off.
+
+To the above account it may be added, that the blocks, each containing
+two pages, are frequently engraved on both sides; that the sheets
+printed are small, and impressed on one side only; and that each sheet
+when dry is folded back, so as to present the appearance of a leaf
+impressed on both sides.
+
+The history of printing in China, and the productions of the Chinese
+press, are subjects which Oriental bibliographers have more or less
+touched upon. Interesting as they are, there will probably be no
+occasion to allude to them in these pages more than once again.
+
+But the history of books in Europe, the productions of the early
+printers in the various countries to which they carried their art,
+is one to which our subject is most closely allied; and European
+bibliography is a study to which many men of great ability have
+devoted themselves during the last three centuries, in Germany,
+Holland, England, Spain, France, Italy, Belgium, and other countries.
+To their labours all later writers on the subject are under manifold
+obligations.[8] But in attributing various undated books to one or
+other of the earliest established presses, guess-work, and the bias
+of national prejudice, have largely prevailed amongst even the most
+painstaking of European bibliographers. This unscientific method, long
+felt to be a reproach to learning and literature, has of late years
+been attempted to be remedied by a more close and critical examination
+of the Incunabula, or books printed in the Fifteenth century. “The
+method of arranging these early books under the countries, towns, and
+presses at which they were produced,” says Mr. Henry Bradshaw, the
+Librarian of the University of Cambridge, “is the only one which can
+really advance our knowledge of the subject. This is comparatively
+easy with dated books, though there is no safeguard against the
+misleading nature of an erroneous date. But the study is of little use
+unless the bibliographer will be content to make such an accurate and
+methodical study of the types used and habits of printing observable
+at different presses, as to enable him to observe and be guided by
+these characteristics in settling the date of a book which bears no
+date on the surface. We do not want the _opinion_ or _dictum_ of any
+bibliographer, however experienced; we desire that the types and habits
+of each printer should be made a special subject of study, and those
+points brought forward which shew changes or advance from year to
+year, or where practicable, from month to month. When this is done, we
+have to say of any dateless or falsely dated book, that it contains
+such and such characteristics, and we therefore place it at such a
+point of time, the time we name being merely another expression for
+the characteristics we notice in the book. In fact each press must
+be looked upon as a _genus_, and each book as a _species_, and our
+business is to trace the more or less close connection of the different
+members of the family, according to the characters which they present
+to our observation.”
+
+The study thus defined is designated Palæotypography; and concerning it
+Mr. Bradshaw further says, “except Mr. Blades’s monograph of Caxton’s
+press,[9] the Hague _Catalogus_[10] and _Monumens Typographiques_[11]
+are the only books existing in any literature, so far as I know, which
+render the study of palæotypography in any way possible upon a proper
+basis. Germany, Italy, France, and Spain, are at present perfectly
+impracticable fields of work, and are, I fear, likely to remain so for
+some time to come.”[12]
+
+Respecting Mr. Bradshaw’s own labours in this field of investigation,
+Mr. Frederick Müller of Amsterdam, an enthusiastic bibliographer of
+rare power, bears the following testimony:[13]--“Hardly anybody in
+England takes an interest in foreign bibliography--the only exception
+being that excellent bibliographer, Henry Bradshaw, Fellow of King’s
+College, Cambridge, who is examining with great enthusiasm the
+Incunabula Typographica, and who has lately arrived at most surprising
+and important results in this department.... I do not know which most
+to admire--the acumen of the conjectures about the places where some
+of the works were printed, or the clearness with which the writer
+treats several very difficult subjects.... This method of ascribing
+a work solely from the appearance of the types used, he carries to
+the utmost point of application.... Mr. Bradshaw is the first who
+turns to advantage the excellent lessons of the French and German
+bibliographers, and through him a new light will probably arise in
+English bibliography.”
+
+To the researches of Mr. Bradshaw and Mr. Blades, and to the labours of
+Mr. Ottley[14] and Mr. Humphreys,[15] in their last published works, I
+am greatly indebted. The interesting information they have accumulated
+I have freely made use of in the preparation of this volume, although I
+differ considerably from some of the conclusions which one or other of
+them has arrived at.
+
+FOOTNOTES:
+
+[1] “The multiplication of printed books and the consequent still
+greater multiplication of readers, created, what may be termed a
+literary public throughout England, and when the printed copies of
+a book from Caxton’s press were spread throughout this public, each
+member of it used a copy that was uniform with the copies used by
+all the rest. But before printing was known, and while copies of a
+book could be made in manuscript only, the transcribers were apt to
+introduce changes of spelling, of syntax, and of phrase, according to
+the dialect of the part of the country to which each copyist belonged.
+And the dialects of different parts of England differed then from each
+other in a far greater degree than any amount of variation which can
+at present be detected by the most zealous philologist. Moreover, each
+author wrote in his own dialect, or to speak more correctly, in the
+pure native English of his own part of England. Hence the diction of
+an author of those times in many cases appears to us more archaic than
+the diction of his contemporaries, or even of some of his predecessors.
+But in proportion as men of letters became familiar in their reading
+with the nearly uniform English language of printed books, they
+followed or approached that uniform English in their own writings.
+The language continued to receive changes by the introduction of new
+words and phrases, and by the zeal for imitating Latin models, which
+grew to excess in many of our prose writers not long after the close
+of the Fifteenth century. Many more modifications of etymology, and
+some of syntax, took place before the modern English language can be
+said to have been substantially established throughout the country; but
+that amount of uniform establishment never could have been effected
+at all, without the intervention and the extended use of the art of
+printing.”--Sir Edward S. CREASY’s _History of England_. 8vo. 1870.
+vol. ii. pp. 556-7.
+
+What the Art of Printing did in this respect for England, it likewise
+did in all other countries to which it was carried, in greater or
+lesser degrees, according to the amount of freedom it enjoyed, or
+of restriction to which it, and the people to whom it spoke, were
+subjected.
+
+[2] _Vide_ Reformation of Poland, by Count V. KRASINSKI, 2 vols. 8vo.
+_Nisbet_, 1838-40.
+
+[3] For assistance in this matter, I am much indebted to my father, Mr.
+ROBERT SKEEN, under whose able teachings I was thoroughly instructed
+in, and made a master of my craft--the Art of Printing. I have also
+to acknowledge, with thanks, the material aid received from Mr. H.
+W. CASLON, the eminent Type-founder, as well as from my publishers,
+Messrs. TRÜBNER and Co., of Paternoster Row.
+
+[4] SOUTHEY’S “Colloquies.”
+
+[5] A reference can scarcely be avoided, in connection with this
+subject, to the exclamation of the patriarch Job (ch. xix. 23, 24),
+“Oh that my words were now written! Oh that they were printed in a
+book! That they were graven with an iron pen, and lead, in the rock for
+ever!” The book of Job is commonly supposed to have been written either
+by Moses, when residing amongst the Midianites about 1520 years before
+the commencement of the Christian era, or by Elihu, one of the speakers
+in the book, which would probably carry its antiquity a century and a
+half or two centuries further back. The word translated ‘printed’ does
+not, however, bear the meaning in the original, which is now generally
+attached to it. It evidently refers to the method of inscribing records
+on rolls, made of the skins of animals, for the purpose of preserving
+them for the benefit of future generations, or on such other substances
+as were then used for that purpose; and in the texts quoted the modes
+of writing and the instruments for inscribing are expressly referred
+to. Plates of metal, and prepared leaves of the talipot palm, are to
+this day engraved and inscribed on, in Eastern countries, with iron
+‘styles,’ for purposes of record. Books of the laws of Buddha exist on
+plates of gold, as well as on the more common olas; and although we
+do not know upon what material MOSES transcribed the Law, which GOD
+himself commanded him to write, and to place in the side of the Ark of
+the Covenant, we may be certain that it would be written on the most
+imperishable, as well as the most portable of substances adapted for
+such a purpose, Moses being learned in all the wisdom of the Egyptians,
+and having for his assistants the most skilful artisans of the age.
+The Ten Commandments we know were graven on tablets of stone hewn out
+of the rock. From tablets such as these, and from engraved plates, as
+well as from inscribed olas, copies and fac-similes might have been
+easily made by a process analogous to that of copper-plate printing;
+the only drawback being that in all such copies the printed characters
+would have been reversed. That the Hebrews must have been familiar
+with books, such as were referred to by Job, is clear. In Egypt,
+during the time of their residence in that country, Public Libraries
+existed:--“Over the mouldering door which led to the bibliothetical
+repository of the Memnonium, said to have been built about the time
+of Moses, Champollion read, written over the heads of Thoth and
+Safkh, (who were the male and female deities of arts, sciences, and
+literature), the remarkably appropriate titles of ‘President of the
+Library,’ and ‘Lady of Letters.’” (Kitto’s _Cycl. of Bibl. Literature_,
+Art. WRITING). The Egyptians probably derived their knowledge of
+writing from Misraim the son of Ham, as did the Canaanites from Canaan
+the brother of Misraim, from whom they were descended. There is proof
+in the sculptured pictures and inscriptions in the oldest Egyptian
+monuments, of about the same age as the Great Pyramid, that 2200 years
+B. C., writing was an art well known at that early period. “Whatever
+the employment, or whatever the produce being brought to be laid at
+the prince’s feet, there were always scribes in attendance to take
+down the exact amount in writing on the property rolls.” (Vide _Life
+and Work at the Great Pyramid in 1865_, by C. PIAZZI SMYTH, Astronomer
+Royal, Scotland; and article in _Good Words_, Part VII, 1867, by the
+same author, p. 453.) When the Israelites took possession of the land
+of Canaan, among other great and walled cities which they captured was
+Debir, whose original name was Kirjath-sepher, or the City of Books,
+or Kirjath-sannah, the City of Letters, (Joshua xv. 49; Judges i. 11).
+This word “sannah” is evidently the same as “sannas,” the name given to
+oblong copper-plates, on which are engraved the record of the grants
+of lands, &c., made from very ancient times by the kings of Ceylon, to
+temples, chiefs, and others; and which are frequently, under that name,
+received in evidence in the law courts in disputes regarding landed
+property. They are, in fact, the title-deeds under which most of the
+Sin̥halese gentry of ancient family hold their estates. These royal
+grants are sometimes on plates of silver, and occasionally cut in the
+solid rock or on massive stone tablets.
+
+[6] Plaster casts of inscriptions might also have suggested the same
+idea. The use of plaster, for the purposes of inscriptions, dates back
+to a very ancient era. It seems to have been as old as the art of
+writing itself. We learn from the book of Deuteronomy (xxvii. 2-4),
+that while the Children of Israel were yet wandering in the desert,
+after their exodus from Egypt, it was ordained, that when they had
+passed into Canaan,--the land which should be given them,--great
+stones, plaistered over with plaister, should be set up, on which
+stones should be written “very plainly” all the words of the law.
+
+[7] “Sy-chong-n̥gén-pon,” the name of a Chinese Song-book.
+
+[8] The following alphabetical list includes the most distinguished of
+these writers:--Andrès, Antonio, Baillet, Bayle, Blount, Bouterwek,
+Brucker, Brunet, Buhle, Chalmers, Collier, Corniani, De Bure, De Vries,
+Dibdin, Ebert, Eichhorn, Falkenstein, Fischer, Foppens, Frere, Gesner,
+Ginguéné, Goujet, Graesse, Greswell, Hallam, Hain, Heeren, Horne,
+Kästner, Mallinckrot, Maittaire, Maitland, Meiners, Mendez, Montucla,
+Naudé, Niceron, Panzer, Portal, Santander, Sismondi, Sprengel, Sotheby,
+Tennemann, Tiraboschi, Vanderhaeghen, Van der Meersch, Van Iseghem, Van
+Praet, Watt, Wolf, Würdtwein, Zapf.
+
+[9] The Life and Typography of William Caxton, by WILLIAM BLADES. 2
+vols. 4to. with 57 fac-simile illustrations. _London_, 1861-63.
+
+[10] Catalogus Librorum Sæc. XVI. impressorum, in Bibliotheca Regia
+Haganâ asservatorum, 8vo. _Hagae_, 1856.
+
+[11] Monumens Typographiques des Pays Bas au XVe Siècle, 20
+livraisons, imp. 4to. 120 plates of fac-similes. _La Haye_, 1857-66. Of
+this magnificent work only 200 copies were printed.
+
+[12] Classified Index of Fifteenth Century Books in the Collection of
+the late M. J. de Meyer of Ghent. 8vo. _London_, 1870. pp. 15-16.
+
+[13] TRÜBNER’S American and Oriental Literary Record, July, 1870.
+
+[14] Inquiry concerning the Invention of Printing, by W. Y. OTTLEY.
+4to. 37 plates, and other engravings. _London_, 1863.
+
+[15] A History of the Art of Printing: Its Invention and Progress to
+the Middle of the Sixteenth Century, by H. Noel HUMPHREYS. imp. 4to.
+105 photo-lithographic fac-similes. _London_, 1869.
+
+
+
+
+Early Typography.
+
+CHAPTER II.
+
+  DATE OF THE ORIGIN OF TYPOGRAPHY IN EUROPE.--ALLEGED EARLY
+  ENGRAVINGS.--PLAYING CARDS.--BLOCK-BOOKS.--MR. F. HOLT’S
+  HYPOTHESIS.--EVIDENCE OF COSTUME.--GERMAN “BRIEF-MALERS.”--DECREE
+  OF GOVERNMENT OF VENICE.--STATE OF EUROPE IN THE MIDDLE
+  AGES.--CULTIVATION OF CLASSICAL LITERATURE AT THE CLOSE OF THE
+  FOURTEENTH AND COMMENCEMENT OF THE FIFTEENTH CENTURY.
+
+
+It has been a question much debated, whether the Art of Printing was
+not introduced to Europe from the East at a much earlier period than
+that generally assigned as the date of its invention; and we are
+informed by Klaproth, that it might have been known in Europe a hundred
+and fifty years prior to its discovery by the Germans, if Europeans had
+been able to read and translate the Persian historians, as the Chinese
+method of printing is clearly explained in the _Djemm’a-et-tewarikh_,
+by Rachid-Eddin, who finished this immense work about the year 1310.
+
+On this subject, Mr. William Savage, a well-known printer, and a
+gentleman to whom the public and the profession are indebted for
+several valuable works on the art, states, in the preface to a volume
+published in 1841,--“The dates given of the introduction of the
+practice into Europe by previous writers, are unquestionably erroneous,
+as we have conclusive evidence of its being followed as a profession
+for nearly a century before the earliest date they give:”--and he
+announced his intention of embodying the facts and information he had
+been for a long period collecting, in another work, as hitherto, he
+declares, there has in reality been but little said on the History or
+Practice of Printing, the numerous works on the subject being chiefly
+copies from one or two of the earlier writers. This is true enough.
+From the very nature of the case it can scarcely be otherwise, until
+and unless the discovery of fresh facts, or the investigations of fresh
+inquirers lead to conclusions different to those which had previously
+been generally received.
+
+It is possible, nay probable, that a knowledge of the art, as practised
+in China, may have been carried to Europe by the Venetian travellers,
+or traders, at a very early date; but, as no account is known to exist
+that such really was the case, so no certain conclusion on the subject
+can be arrived at. Whether it was so or not, there is little difficulty
+in supposing that on many occasions attempts might be made similar to
+that contained in the much disputed account given by Papillon of the
+discovery at Bagneux, a village near Mont-Rouge, in the library of
+M. De Greder, a Swiss Captain, of a work, lent to M. De Greder by M.
+Sperchtvel, another Swiss Officer, supposed to have been printed in
+1284 or 1285. This work, which has never since been seen, is said to
+have borne the following inscription in old Italian.
+
+“The heroic actions, represented in figures, of the great and
+magnanimous Macedonian king, the bold and valiant Alexander; dedicated,
+presented, and humbly offered to the most holy Father, Pope Honorius
+IV, the glory and support of the Church, and to our illustrious
+and generous father and mother, by us Allessandro-Alberico Cunio,
+Cavaliere, and Isabella Cunio, twin brother and sister: first reduced,
+imagined, and attempted to be executed in relief with a small knife
+on blocks of wood made even and polished by this learned and dear
+sister, continued and finished by us together, at Ravenna, from the
+eight pictures of our invention, painted six times larger than here
+represented; engraved, explained by verses, and thus marked upon the
+paper to perpetuate the number of them, and to enable us to present
+them to our relations and friends, in testimony of gratitude,
+friendship, and affection. All this was done and finished by us when
+only 16 years of age.”
+
+Interesting as this statement is, and correct as it possibly may be, it
+can scarcely be accepted as an historical fact, inasmuch as no one but
+the alleged discoverer appears ever to have seen the originals.
+
+[Illustration: [Copy of an Inscription on the first leaf of the
+“Speculum Humanæ Salvationis.”]]
+
+Besides the preceding doubtful account we have notices of a print in
+the Library of Lyons with the date 1384. Specimens of engravings of
+playing cards, as well as of saints, said to have been produced in the
+years 1390 and 1400 are also extant. From the year 1400 to 1440 other
+and more elaborate engravings, of a devotional character, are likewise
+to be met with. One of the most curious, representing St. Christopher
+carrying the infant Saviour across the sea, is in the possession of
+Earl Spencer, and bears the date 1423. A few years later we find
+similar prints accompanied with explanatory inscriptions or texts of
+Scripture placed beneath them; next came whole series of these prints
+published together as a book; and lastly, the small Latin Grammars of
+Donatus, the common school-books of the day, engraved and printed in
+like manner. These productions are distinguished by Bibliographers as
+Block-books, and nine or ten different specimens are known to exist.
+Of these the most remarkable are the _Biblia Pauperum_, or Poor Man’s
+Bible,[16] a book containing 40 pages of quarto, or small folio prints,
+with several engravings with inscriptions upon each page, supposed to
+have been executed (most probably at Zwolle[17] in Holland) between
+the years 1420 and 1435; and the _Speculum Humanæ Salvationis_,[18] or
+Mirror of Salvation, a book containing 63 leaves in the two Latin, and
+62 in the two Dutch editions, (each in small folio), 58 of which are
+ornamented with engravings representing stories from the Old and New
+Testaments, beneath which are more copious explanatory inscriptions
+than those in the “Biblia Pauperum.” These editions are supposed to
+have been published between the years 1430 and 1457.
+
+Mean as these books would seem if issued from the press at the present
+day, they were wonderful productions for the age in which they
+appeared; and although the first named was called the ‘Poor Man’s
+Bible,’ or ‘Book of the Poor,’ it was only in comparison with the cost
+of a written copy of the Holy Scriptures, which was worth the, in that
+day, enormous sum of £100.[19] As very few copies are now in existence,
+(and those generally in an imperfect state), they have literally
+become worth more than their weight in gold: a copy of the _Biblia
+Pauperum_ having been bought by the Duke of Marlborough, after a keen
+competition at an auction sale in 1813, for the almost fabulous sum of
+£257.
+
+It was from these early Block-books, or Donatuses, that Gutenberg, as
+we learn from the statement of Ulric Zell,--a contemporary, and working
+printer at Mentz with the original inventors while the art was yet
+a secret,--derived his idea of printing as at present practised. In
+the words of Mr. Charles Knight, in his interesting biography of the
+venerable Caxton, the Father of the Art in England,--“To seize upon the
+idea, that the text or legend might be composed of separate letters,
+capable of re-arrangement after the impressions were taken off, so as
+to be applied without new cutting to other texts and legends, was to
+secure the principle upon which the printing art depended. It was easy
+to extend the principle from a few lines to a whole page, and from one
+page to many, so as to form a book.”
+
+Such, according to the almost universally adopted belief, were the
+successive steps which led to the invention of ~TYPOGRAPHY~. And for
+nearly a century no one had ventured to doubt that either images of
+saints, or characters for playing cards, were first printed from
+engraved wooden blocks, as cheap substitutes for the works of the
+draftsman and painter;--that these were succeeded by subjects of sacred
+history with explanatory legends cut in wood, imitative of the art of
+the illuminator, and the caligraphy of the scribes or professional
+writers;--that these again were followed by Donatuses;--and that from
+these Donatuses, printed from solid blocks, Gutenberg obtained his
+first idea of the Typographic Art.
+
+But in 1868 an altogether new hypothesis was propounded at the annual
+congress of the British Archæological Association, held that year at
+Cirencester. It was there maintained, in a paper read by Mr. Henry
+F. Holt, that printing from moveable types, as practised in Europe,
+preceded in point of time that of printing from engravings on wood.
+After a careful inspection of the celebrated print of St. Christopher,
+in Earl Spencer’s library at Althorp, he contended,--“that the date
+1423 is not that of the engraving, but of the legend beneath it, which
+had been copied by the engraver, and has reference to the jubilee
+year of the Saint; that it has been printed by a press, and with
+printer’s ink; and, what is more important, upon paper which exhibits
+the well-known water-mark of the bull or heifer’s head, with a flower
+issuant between the horns, which was used by Faust, and supposed
+to have been made for him.[20] He has shewn, that the discovery of
+this supposed early engraving instigated the fabrication of several
+similar, which were stained with coffee to give them the appearance
+of age. He further maintains, that the block-books,--originally, in
+his opinion, produced by the celebrated painter and engraver Albrecht
+Durer,--were cheap substitutes for the highly-priced productions of the
+Printing press.” And he challenges literature “to prove, that a copy
+of the block-book known as the ‘Biblia Pauperum,’ was actually in any
+known library, public or private, prior to 1485, or known then to be
+in existence.”[21] “All this has,” as Mr. Planché observes, “naturally
+aroused a host of antagonists, who have more or less courteously
+contradicted, without convincing Mr. Holt, by the production of any
+incontrovertible fact, which would refute the evidence he adduces in
+support of his arguments. Alone and undismayed, he still gallantly
+defies all comers.”
+
+Guided by the test of costume,--“a test which he has never known
+applied in vain, when called to the assistance of the critical
+inquirer,”--Mr. Planché, while abstaining from the expression of an
+opinion upon the principal point in dispute, shews, as a matter of fact
+in regard to playing cards, that “with the exception of those by the
+Master of 1466 [an engraver only known by that designation], and a set
+of “tarots,” called the Mantegna Cards,[22] on one of which is the date
+1483, all the specimens of printed playing cards that he has met with
+display the unmistakeable character of the fashions of Germany, France,
+and England, during the latter half of the Fifteenth century, and the
+greatest portion those of the very latest part,--Louis XI, Charles
+VIII, of France; Edward IV, and Henry VII, of England; and Maximilian
+I, Emperor of Germany.”[23]
+
+So far, then, the evidence of the playing cards seems to support the
+hypothesis of Mr. Holt.
+
+[Illustration: [The Knave of Bells, 1390.]]
+
+Most of the early prints are certainly of an extremely rude type,
+consisting chiefly of mere outlines of figures; in the one case of
+saints, copied from the illuminated Missals, and in the other, of
+characters for playing cards similar to the foregoing fac-simile,
+afterwards coloured in imitation of paintings. Very probably they may
+have been made, in the first instance, by means of stencil plates;
+if not, the impressions were obtained from the engraved blocks by
+friction, after the Chinese manner. Whichever was the method adopted,
+the ‘Brief-malers’ or card painters of Germany seem to have run their
+Italian brethren hard in the race of competition in the first half of
+the Fifteenth century, as we learn from a decree of the Government of
+Venice, bearing date the 11th October 1441; which, after stating that
+the art and mystery of making cards and printed figures had fallen
+into decay, from the numbers printed out of Venice, ordains--“That it
+be ordered and established, according to that which certain masters
+had supplicated, that from this time in future no work of the said art
+that is printed or painted[24] on cloth or on paper, that is to say,
+altar pieces, images, and playing cards, and whatever other work of the
+said art is done with a brush and printed,[25] shall be allowed to be
+brought or imported into this city under pain of forfeiting the works
+so imported, and xxx livres and xii soldi,[26] of which fine one-third
+shall go to the state, one-third to Signor Giustizieri Vecchi, to whom
+the affair is committed, and one-third to the accuser.” The worthy
+magistrates of Venice were excellent Protectionists in their day and
+generation; but this antique method of printing, either from engraved
+wooden blocks, or with stencilling plates and brushes, had soon to
+give way to the newer art of Typography; and twenty-eight years after
+the promulgation of this decree we find printed works issuing from the
+press of John and Vandeline of Spire, established in Venice in the year
+1469.
+
+It is a moot point among antiquarians when playing cards were first
+printed. The commonly received opinion of their invention in 1392 for
+the amusement of the insane King, Charles VI of France, is decidedly
+erroneous.[27] On this subject Mr. Planché writes,--“There is plenty
+of evidence to prove that cards, drawn, painted, and gilded by the
+hand, like those of Jacquemin-Gringonneur, and to which the name of
+‘Tarot cards’ has been given, found their way into Europe from the East
+in the Fourteenth century, or perhaps earlier; but they had nothing
+in common with those to which we are accustomed, although they might
+have suggested them, and the fact in no wise affects the question of
+printing by means of wood-blocks only.”[28]
+
+That this art--the art of printing by pressure to obtain copies,
+in ink, from separable types or letters--had not been attempted to
+be carried into effect at a much earlier period than the time when
+Gutenberg made his first essay at Strasburg, about the year 1435, has
+been a subject of wonderment with certain writers. But the truth is,
+that prior to that period the world was not ripe for the invention,
+neither had the time arrived for the development of those grand designs
+of Providence, in the effecting of which the Press and Printing were
+destined to be mainly instrumental. Otherwise, it is inconceivable
+how for ages previous, while the germ of the art, as ultimately
+perfected, was in common use among men,--in seals and signets;[29] in
+stamped records on bricks and tablets of clay in Babylon; in chiselled
+inscriptions on rocks and pillars in India; and in irons with letters
+cut in relief upon them for branding cattle with their owners’ names,
+(known among the Romans in the days of Virgil);--no one discovered the
+way to this method of multiplying documents for general distribution,
+or for the promulgation of edicts through the length and breadth of the
+ruling empires of the world.
+
+It may be well, therefore, before entering upon the History of
+PRINTING, popularly so called, to take a rapid glance at the state
+of Europe, both as regards Religion and Literature, in the ages
+immediately preceding that at which we have now arrived.
+
+From the Sixth to the Fifteenth century the Western world may be
+said to have been covered with moral darkness. On the fall of the
+Roman Empire, ignorance, barbarism, and superstition spread in
+dense and heavy clouds over the nations of the West. Learning so
+rapidly declined, that it was almost wholly lost; and the light of
+Religion,--that light “which lighteth every man that cometh into the
+world,”--appeared well nigh entirely quenched. Here and there, however,
+in different countries and in successive ages, a ray of light shot
+forth; Schools and Universities were established, and a few bright
+names shine out like stars amid the thick darkness which surrounded
+them. The number of these was somewhat increased towards the Tenth
+century. About this time Paper made from cotton or linen rags began to
+come into use. The importance of this invention must at once have been
+felt, and by decreasing the expense of manuscripts,--hitherto written
+on parchments, or the perishable papyrus,--have greatly enlarged the
+demand for such documents. This enlarged demand induced more to follow
+the occupation of Scribes, or Caligraphers. In the Eleventh century the
+Benedictine Monks exercised themselves in copying manuscripts; and to
+their industry we owe almost all we possess of Classic Latin Literature
+at the present day. The light of learning in this century shone
+brightest in France and England; in Italy but faintly, while in Germany
+its glimmerings were scarcely perceptible. In the Twelfth century a
+slight improvement may be traced; John of Salisbury and William of
+Malmesbury being distinguished writers in this age. In the Thirteenth
+however, darkness prevailed again; and few, if any, were capable of
+appreciating the master-mind of Roger Bacon, who shone like a beacon
+in the realms of literature and science, but who was looked upon by
+his mole-eyed contemporaries as a magician whose lore was derived
+from unholy sources. The Church grew more and more corrupt. Ignorance
+and fanaticism every where abounded; and true Religion was scarcely
+to be discerned amid the prevailing superstitions of the age. It was
+in the moral world as in the physical: the darkest hour is that which
+precedes the dawn. Darkness at this period covered the earth and gross
+darkness the people. The mind of man had become, as it were, without
+form and void; and in that state, humanly speaking, it was long likely
+to remain. But such was not the will of GOD. As in the creation of the
+world, GOD said, Let there be Light, and Light was; so now the command
+went forth--“Arise, shine, for thy light is come, and the glory of
+the Lord is risen upon thee.” And the light of truth burst forth; not
+indeed at first with noontide splendour; but there came from the East
+a dawn, and a day-spring thence arose, which announced the coming of
+that light which will only cease to shine when time shall be no more.

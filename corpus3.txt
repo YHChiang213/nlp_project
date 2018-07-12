@@ -1,0 +1,517 @@
+It is possible to add, now, while this paper is passing through the
+press (June 1919), the results of a back-cross of 4 F₁ females to a
+Sebright male carried out during the summer of 1918. The birds being now
+mature their permanent colors are evident. Making the back-cross in this
+direction is much less advantageous than the reciprocal described above,
+because the Sebright contains most of the dominant color factors. The
+group of birds obtained appeared to be less variable in color than those
+from the other back-cross, and one can see at a glance that more of them
+approach the Sebright type; some quite closely.
+
+All of the males are hen-feathered, as expected. No evidence was found
+that two types of males exist, which would have been expected if the two
+types noted in F₂ had any hereditary significance. If, then, as the F₂
+results suggest, two factors for hen-feathering are present both are
+dominant, and no genetic distinction is found between individuals in
+which one or both of the dominant factors are duplex or simplex.
+
+There were 9 adult hens and 10 hen-feathered cocks. An attempt is made
+below to refer them to their corresponding F₂ classes.
+
+
+F. REVIEW OF THE HEREDITY OF THE COLOR OF THE PLUMAGE OF POULTRY.
+
+In poultry there are perhaps more different colors and color-patterns
+than in any other species of domesticated animals. The genetic work has
+advanced far enough to show that many of the differences depend on
+Mendelian factors. It is probable that, in addition to the main factors,
+there are many contributory, minor, or modifying factors that give the
+finer details to “show birds.”
+
+It is generally supposed that the wild bird from which some at least of
+the domesticated races have come is _Gallus bankiva_ of India and
+Indo-China, or else one or another of its subspecies. In any case, the
+wild type of coloration is approximately known, since the known wild
+races are colored alike in all essential respects. Even were the color
+of the wild type not known, the original plumage could be deduced with
+some degree of probability from the atavism that appears when some of
+the races are hybridized. It is interesting to find that many of the new
+plumage characters are dominant to the wild type. The same relation also
+holds rather generally for other characters of poultry, such as the
+comb, etc.
+
+Amongst the uniform or single-colored races, the whites, blacks, reds,
+and buffs have been studied. Bateson and Punnett were the first to show
+that the white of the White Leghorn is dominant. They also showed that
+the white of the White Rose Comb bantams is recessive. Another white,
+that of the White Silky, is also recessive, but due to a different
+factor from the white factor of the Rose Comb bantams; for, when these
+two whites are bred together they give colored birds in the first
+generation. Hurst showed later that the white of the Leghorn is dominant
+over the black of the Hamburg and the buff of the Cochin. The dominance
+is often not complete, since tints of black or of buff or even patches
+of these colors may occur. The latter may be confined to the head, neck,
+and breast. The black plumage of the Hamburg is dominant over the buff
+of the Cochins, but incompletely so, as the black background may be
+marked and shaded with brown. Whether we are dealing here with one pair
+of factors, or two pairs, could only be determined by an F₂ ratio;
+whether it is 3:1 or 9:3:3:1.
+
+The blue color of the Andalusian is known not to be a simple color, but
+to be a fine mosaic of splashed white and black. The color is produced
+in birds that are heterozygous for splashed white and black, or at least
+for certain kinds of white and black. This relation was first
+demonstrated by Bateson and Punnett (1902 and 1905) and later Saunders
+(1906). It appears also from certain crosses made by Davenport that some
+of the whites (such as that of the Leghorn) and black (such as that of
+the Minorca) may at times also give some blue birds when crossed.
+Whether there are also other races with dominant white color different
+from that of the Andalusian white (and the same holds for black races
+also) or whether a special (recessive) white was present in this cross
+when the blue appeared, was not made out by Davenport.
+
+Lippincott has recently studied the Andalusian cross and obtained
+essentially the same results as his predecessors. He calls attention to
+an interesting fact in the splashed whites, namely, that the color
+splashes are blue when they are found in those parts of the body where
+the color is blue in the Andalusian. Although the Andalusian is always
+spoken of as a blue bird, the hen only is entirely blue, while the male
+is black above and blue below. The splashes on a white male correspond
+to the black and blue of the Andalusian male, and are black if above and
+blue if below.
+
+Lippincott found also that the blue birds differ from the black in two
+characteristics, viz, in the blues the pigment is in larger masses, _i.
+e._, it is more clumped, leaving more white between the clumps than in
+the blacks, and in the blues the pigment is absent in the extremities of
+the barbules. If the clumping and the condition of the barbules are
+treated as separate entities, each gives a 3:1 ratio. Lippincott
+concludes, therefore, that the Andalusian cross is a 2-factor case. If
+each of these characteristics was independent of the other in the sense
+that some birds had clumped pigment and others deficiencies in the
+barbules, then one might conclude that he was dealing with a 2-factor
+case; but if these two characters are only different aspects of the same
+gene, and when one is present the other is also, the situation is not
+different from those that are very common, viz, two or more effects
+produced by the same genetic factor.
+
+Davenport has recorded results of crossing several breeds of different
+colors (1906 and 1909). The white of the Leghorn was found dominant to
+the black of the Minorca breed, although the hybrids, “at least the
+females,” had some black feathers. This white was also found to be
+dominant to the mottled Houdan and to the “Red-backed game.” On the
+other hand, a male Tosa with wild-type plumage by recessive White Cochin
+female gave “barred” males in F₁; the barring coming in, no doubt, from
+the Cochin and although not at the time recognized by Davenport as
+sex-linked inheritance, the statement that barring is “associated with
+maleness” (as already pointed out by Darwin) indicated that the barring
+that appeared within the cross was probably the sex-linked barring shown
+by other breeds.
+
+In Davenport’s cross of White Leghorn by Minorca two blues appeared (as
+stated above), indicating that the same factors were here present that
+in the Andalusian white and black strain gives the same result,[3] but
+why only some of the F₁ appear as blue, while others are not blue, is
+not yet made clear, unless two factors for white were present. White of
+the Leghorn breed was found not to be as completely dominant over buff
+as over black. Black was found dominant over the wild-type
+(Black-Breasted game), but red is present in F₁ birds also to some
+extent in those places where red is found in the game. Lacing, as shown
+by the Dark Brahma, is dominant to the plumage of the Tosa. Penciling
+also is said to be dominant, as shown in females of the cross between
+the Dark Brahma and Tosa fowl.
+
+In his later paper (1909) Davenport gives fuller information in regard
+to some of the F₁ cases reported in his first paper, as well as the F₂
+results. Thus, in the cross of Silky to Minorca, that gives black F₁
+birds, the F₂ count gave 210 black, 57 game, and 95 white--approximately
+the expectation for two pairs of factors, one of them giving white
+(9:3:4). Silky by White Leghorn gave white F₁’s, but the males developed
+red on the wing bow and saddle when they became mature, and the female a
+faint blush of salmon (“red”) on the breast. In F₂ there were whites,
+games, and blacks, approximating to expectation for three pairs of
+factors, one being a dominant white (52:9:3). Silky by Buff Cochin gave
+a washed-out buff, but with the jungle coloration partly developed in
+the tail (black) and hackles and wing bow (redder buff). Davenport
+represents the Buff Cochin as having lost the jungle patterns and
+coloration, while the Silky retains it. The heterozygous condition of
+the genes for the wild-type color in F₁ is made responsible for the part
+development of color. The White Silky is represented as carrying the
+factor for black (N), hence in F₂ both black and game-colored birds are
+expected and they were obtained. When Black Cochin is crossed to Buff
+Cochin, the F₁ males are in general like the game (black and red) while
+the females are black (except for some red on the hackle). In this case
+Davenport represents the Black Cochin as showing a factor for
+jungle-fowl pattern, but lacking the color that is assumed in his other
+formulæ to go with this pattern. What is meant by this change is not
+quite clear to me, unless Davenport supposes there is an independent
+factor for the jungle-fowl pattern which may be filled in by other
+colors determined by other factors. But were there enough F₁ birds to
+exclude the possibility that jungle-fowl birds would not appear in this
+cross?
+
+Davenport has reported a cross between a female White Cochin and a male
+Tosa (wild type) from which the daughters were Tosa, except that the
+shafting was broadened, and the saddle feathers and proximal secondaries
+were obscurely barred (black and buff); the sons were also like the
+Tosa, but every feather was repeatedly barred (see above). In F₂ there
+were 15 white, 25 game, and 16 barred birds. Davenport concludes that
+“barring is clearly heterozygous and confined to the male sex,” and in a
+footnote he adds that the sex-linked barring factor of the Plymouth Rock
+is different from that of this Cochin-Tosa cross, but Goodale informs me
+that the barring that appeared in this cross is probably the same as
+that in Barred Rocks.
+
+As pointed out, an interesting feature of color inheritance in poultry
+is the large number of cases of sex-linked inheritance. It might seem
+probable here, as in the case of _Drosophila_, that this is due to a
+well-recognized difference between sex-linked and autosomal characters,
+namely, that a recessive mutation in one of the sex chromosomes of a
+sperm-cell of the male bird will have a chance of showing its effect
+immediately if that sperm-cell unites with an egg without a Z to form a
+daughter, whereas it would not immediately show up in the offspring if
+the mutation were autosomal.[4] In consequence the recessive mutant
+would have a greater chance of being observed and selected if it
+appeared in a sex chromosome. But dominant sex-linked characters,
+however, have the same chance as dominant autosomal ones and the
+question turns therefore on the kinds of characters shown in the cross.
+
+The first indication of sex-linkage in fowls was furnished by evidence
+that Spillman published in 1903 on information supplied by
+poultry-men--information that has been proven subsequently to have been
+accurate. Spillman pointed out clearly the similarity between the facts
+he quoted and the then known cases of sex-linkage in the canary and in
+the currant moth. The case referred to by Spillman was a cross between
+Barred Plymouth Rock and Black Langshan. Goodale and I repeated the
+cross, using both Plymouth Rock and American Dominques, publishing the
+results in 1912. In addition to the F₁ results evidence was obtained for
+the F₂ generation. The theory was also tested by back-crossing. The
+results of such a cross that are typical for all cases of the sort are
+briefly as follows: Plymouth Rock cock by Langshan hen gives F₁ barred
+sons and barred daughters. These inbred give F₂ barred cocks and barred
+and black hens (2:1:1).
+
+In the following schemes the sex chromosomes are represented by Z and W,
+while the exponents stand for the factors involved, viz, B for barred
+and b for not-barred, which here means a black bird.
+
+Before these experiments were finished Goodale had made other crosses
+involving the barring factor, and had obtained results that showed the
+sex-linked inheritance of this factor (1909). For example, he crossed
+Buff Rock male (not barred) to white Plymouth Rock females. The sons
+were barred and the daughters not barred. The reciprocal cross gave
+barred sons and daughters. A White Rock male (carrying barring) mated to
+a Brown Leghorn female gave barred sons and daughters. Reciprocally, the
+chicks were of two kinds as to their down, viz, black chicks and chicks
+with the down pattern of the barred rock. All these results with Barred
+Plymouth Rocks show that they carry a sex-linked dominant factor for
+barring. Its wild-type allelomorph would be game-color (jungle-fowl),
+but since, when the dominant barring is absent in some of the
+individuals in these crosses, they are black, it would seem to follow
+that another dominant factor, one for black, that is not sex-linked, is
+also present.
+
+Pearl and Surface have also carried out crosses with Plymouth Rocks on a
+much larger scale. Their results conformed in every way to the
+foregoing. They crossed Barred Plymouth Rocks and Cornish Indian games.
+The plumage of the male of the latter race is black with dark red on the
+back and wing-bows; the females are also black laced with mahogany
+ground-color on back, breast, wing, and tail coverts. When the male game
+is mated to the barred hen the sons are barred and the daughters are
+black. In the reciprocal cross both sons and daughters are barred. The
+back-cross tests conformed to expectation. The results were the same as
+those already stated above for the Langshan-Rock cross.
+
+Sturtevant crossed Columbian Wyandottes and Brown Leghorns. The F₁ sons
+were alike, whichever way the cross was made. They were fairly typical
+Wyandottes, which race carries therefore more of the dominant plumage
+characters (two or three?). There were two types of daughters, depending
+on the direction in which the cross was made. When the father is
+Wyandotte, the daughters are like him (except for stippling of the
+Leghorn type). When the father is Brown Leghorn the daughters are
+somewhat stippled red birds. In the former case the daughters getting
+their Z chromosome from their Wyandotte father resemble him; in the
+latter case the daughters getting their Z chromosome from their Leghorn
+father look more like him. Their failure to look exactly like him must
+be due to autosomal factors derived from the Wyandotte mother that
+dominate other autosomal factors from the father.
+
+Hagedoorn crossed Black Breasted Game bantams (like those used in my
+Sebright crosses) to Brown-Breasted bantams. In the latter the black
+breast feathers of the male are bordered by lemon; the hens are nearly
+black. Black-breasted male to “brown-red” female gave both
+black-breasted sons and daughters. In the reciprocal cross all the sons
+were black-breasted (like the mother) and all the daughters were brown
+red like the father. Evidently the factor here for Brown Breasted game
+is sex-linked and recessive. In this case the new mutant sex-linked
+character is recessive to the wild type.
+
+Davenport (1912) crossed Brown Leghorns to Dark Brahmas. In the cross
+and its reciprocal all the sons are alike. Two dominant sex-linked
+factors were found,[5] viz, the white background characteristic of the
+Dark Brahmas and the red upper wing-coverts (and back) characteristic of
+the Brown Leghorns. On the other hand, the _daughters_ differ in the two
+crosses, in each case resembling their father in their hackle color.
+
+When two sex-linked characters are involved in a cross it is possible to
+determine by suitable matings whether an interchange between the
+chromosomes that bear them has taken place. In the case of the sex
+chromosomes only one sex, the male, has both like chromosomes, viz, ZZ,
+and we expect from analogy with the _Drosophila_ work that crossing-over
+would be found between the sex chromosomes only in the male. Goodale has
+recently (1917) made the important discovery that in poultry
+crossing-over takes place between the sex chromosomes (ZZ) in the male,
+but not in the female (ZW or ZO). This relation, therefore, is the
+reverse in birds and flies, for, in the one, crossing-over takes place
+in the female and in the other in the male. Whether this difference
+extends also to the other chromosomes in birds as it does in flies is as
+yet not known.
+
+Several years ago some crosses between gold and silver Campines were
+reported by Rev. E. Lewis Jones. The results are consistent with the
+view that a sex-linked factor pair is responsible for this difference in
+color, although the author does not apply this view to his results. The
+results may be seen in the table on page 16, to which Jones has
+prefixed the number of individuals. The cross also involved
+hen-feathering _versus_ cock-feathering, which appears here (as in other
+cases) to be a non-sex-linked dominant factor. As stated above there are
+in the results a few apparent inconsistencies with this interpretation,
+due possibly to heterozygous females having been used in the crosses.
+
+Lefevre crossed Silver Spangled Hamburgs and Brown Leghorns. The
+spangling was found to be a sex-linked dominant factor. A spangled cock
+bred to a Leghorn hen gives spangled sons and daughters; a spangled hen
+by a Leghorn male gave spangled sons and not spangled daughters. The
+daughters do not transmit spangling. Other factors may obscure the
+results, especially factors for black, or the localization of the
+pattern. Lefevre says “it would seem probable that multiple factors for
+black, introduced by the Brown Leghorns, are present, and that these
+factors may have a cumulative effect, with the result that pigmentation
+is developed to varying degrees of extension.” Whether the factors for
+black spoken of as coming from the Leghorns are dominant wild-type
+factors that have mutant allelomorphs in the Silver Spangled Hamburg is
+not entirely clear from the quotation.
+
+Baur gives in his Introduction to the Study of Heredity (1914, pp.
+202-203) some results (unpublished) that Hagedoorn had obtained by
+crossing gold and silver races of Assendelver birds. The factor is
+sex-linked and is no doubt the same factor reported by Jones for gold
+and silver Campines and by Sturtevant for Columbian Wyandottes. Silver
+dominates gold and the sex relations are the same as those already
+reported by others for poultry, viz, the male is ZZ, the female ZW. Gold
+hens by a heterozygous silver[6] gave 162 silver cocks, 163 silver hens,
+168 gold cocks, 160 gold hens, expressed graphically (_g_ for gold, _s_
+for silver):
+
+Whether the recessive white that is sometimes found in dominant White
+Rock stock is different from both of the other recessive whites is not
+known. There are, then, 5 or 6 recessive characters that are not
+sex-linked and 1 recessive sex-linked character.
+
+Owing to the relatively large number of color dominants in poultry, some
+unnecessary confusion has arisen concerning the relation of the
+dominants to the wild type, and especially to other mutant characters to
+which they are said to be dominant, in the sense, however, of being
+epistatic. An imaginary example will illustrate this. For example, if at
+some locus in the wild type a mutation occurred that gave a dominant
+black (_i. e._, a black that shows up when one gene for it is present)
+and at the same time this black also showed up even when other recessive
+mutant characters were present in homozygous form, then F₁ birds would
+be black when black is crossed to such pure recessive stocks. Such cases
+have indeed been described as dominant, but a knowledge of F₂ would have
+shown at once the error of such a system. For, if black had been a real
+dominant, the F₂ would have given 3 blacks to 1 of the other type (such
+as the wild type), but if the case were one of epistasis, then there
+would have been 9:3:3:1 classes in F₂ (or some modification of that
+ratio). In this sense, then, epistasis may be defined as a result that
+appears when one member of the pair of genes produces its effect
+regardless of the constitution of the individual with respect to another
+gene (or other pairs of genes). It is curious at least to note that in
+the case of dominant white the term epistatic has been much less often
+used than in the case of black. Theoretically the two situations are
+exactly alike, but because black could so obviously conceal things
+beneath it, while white is not thought of as doing so, it seemed
+“natural” to make such a distinction. In reality it is not a question of
+covering up at all, but a case of a dominant character (white or black)
+preventing other colors from appearing.
+
+In the case of recessive white the situation is somewhat different and
+no one, so far as I know, has gone so far as to speak of such a white as
+epistatic, although when the animal is white it certainly hides, when
+completely effective, all the other effects of color-producing factors,
+but allows them to “show through” in some of the cases. This means not
+that they do “show through,” but that they only develop to a “lower”
+degree. The difference between dominant and recessive whites rests on
+the fact that in one case one member of a pair of factors gives white
+and in the other both members are necessary. But obviously such a
+distinction is not important, and if it were worth while the case might
+be argued for recessive whites being also epistatic. The whole tangle
+goes back to a false interpretation of presence and absence of
+characters and presence and absence of factors. As I have gone over this
+ground recently in my paper on the Theory of the Gene, I need not repeat
+here what I tried to make clear there.
+The occurrence of gland-like cells with an internal secretion in the
+ovary and testes of fowls has been described by a number of writers and
+denied, at least for the testes, by others. The work of Boring and Pearl
+has done much to bring this question to a satisfactory solution, for
+they have tested out and made use of the best reagents that their
+predecessors had discovered and have used a much greater amount of
+material. As they have reviewed very fully the literature of the
+subject, it will not be necessary to go over the ground again in detail.
+
+In the follicles of the ovary there are present, according to Boring and
+Pearl, groups or nests of cells lying among the connective tissue of the
+inner theca. The cells are about three times as large as the ordinary
+connective-tissue cells of the ovary. The cytoplasm is clear and
+vacuolated, “only occasionally containing a few acidophile granules
+which stain with the fuchsin in Mallory’s stain or the eosin of Mann’s
+stain, while the real interstitial cells are crowded with granules.”
+
+When the egg is set free from its follicle, the latter collapses and the
+rupture becomes closed. A mass of cells collects in the center of the
+collapsed structure which develop yellow pigment. The cells, lying in
+the puckered edge of the follicle, may also develop such yellow color.
+The cells that produce the yellow pigment come from the nests of cells
+that lay originally mainly in the theca interna. Either by migration or
+by division they come to fill up the central cavity. The yellow
+substance in the cells is not fat, since it does not dissolve in the
+clearing oils, nor can it be protein, for it does not take acid stains
+as normal secretion granules of protein. It does not dissolve in HCl,
+HNO₃, or H₂SO₄, nor in strong KOH, although the latter turns the pigment
+a bright red color. Many other substances were also tried by Boring and
+Pearl, but none of them dissolved the yellow pigment, which reacts in
+this respect in the same way as does the yellow pigment in the luteal
+cells of the mammal. The similarity in the nature of the pigments in the
+two cases is an argument in favor of the view that the cells that
+produce the pigment are the same in both groups. In the mammal the
+yellow corpus luteum is a large, gland-like organ that develops after
+the ovum is discharged; in the bird there is also a yellow spot on the
+ovary, due to the pigment in the collapsed follicle, but it is smaller
+and much less conspicuous than in the mammal. The evidence concerning
+luteal cells in the testes of the bird is conflicting. One of the
+difficulties in the situation is the identification of the cells, which
+are sometimes regarded merely as the general connective-tissue stroma of
+the testis that is undoubtedly present; at other times special secretory
+cells are discerned embedded in the connective tissue, as individual
+cells or in islands. Boring states (1912) that in newly hatched chicks
+about half of the tissue of the testes is interstitial connective
+tissue; the other half consists of tubes or cords whose principal
+function is the development of the germ-cells. In the paper of 1912
+Boring reached the conclusion that there are no “interstitial cells in
+the testes of the domesticated chicken in the sense that this term has
+been previously used,” and states that no evidence has been found that
+an internal secretion of any kind is formed by any cells of the
+interstitial tissue.
+
+It is not necessary to discuss whether or not connective-tissue cells
+are present in the testes of birds, for is it generally conceded that
+they are found at least in certain stages, but it is important to look
+into the question as to whether among these interstitial cells there are
+others that have an endocrine function. Mazzetti gives pictures of such
+gland-cells between the seminal tubules of the cock bird, but says that
+they are rare, “even though this bird has very marked secondary sexual
+characters” (Boring and Pearl). It may be remarked parenthetically that
+if they had been more abundant the bird might have had no secondary
+sexual plumage since it will be pointed out below that such glandular
+cells may have as their special function the suppression of these
+characters.
+
+According to Des Cilleuls, interstitial cells are first found in males
+about 30 days old and at this time the secondary sexual characters put
+in their appearance. If, as will be shown in the sequel, he means by
+interstitial cells the endocrine cells that suppress the development of
+the male plumage in the female, the appearance of these cells at this
+time would be significant; but if he implies that their occurrence in
+the male incites the development of the secondary sexual characters, his
+interpretation is open to serious doubt. Reeves found interstitial cells
+in testes of cocks 3, 5½, 9, and 18 months--more in the earlier stages.
+
+In a later communication by Boring and Pearl the whole question is taken
+up again with improved methods, etc. Previously 21 male birds had been
+studied, just hatched to 12 months old. More sections of this same
+material were made which were stained according to Mann’s and Mallory’s
+methods. In addition, a whole new series of preparations was made. A few
+interstitial cells, i. e., granule containing-cells were found in newly
+hatched chicks, but not in any of the 60 mature birds examined.
+
+
+
+
+LUTEAL-CELLS IN THE TESTES OF THE MALE SEBRIGHT.
+
+
+Finding that the testes of F₂ hen-feathered birds were often flat and
+pear-shaped instead of rounded and cylindrical, as in ordinary cocks,
+and that they were often black in color, suggested, as already stated,
+that the testes of the Sebright might be hermaphrodite in some element.
+It seemed not impossible that egg-cells might be found. I made a
+considerable number of sections of the testes of these birds and
+examined them under the microscope; not finding any egg or egg-like
+bodies, the slides were laid aside, but the idea that in some other way
+the Sebright’s testes might correspond to the ovary of the female next
+recurred to my mind. Consequently, when in the summer of 1918 I had some
+new material derived from a castrated Sebright male that had partly
+regenerated its testes and was again going back to hen-feathering, and
+pieces from one of the old testes of a castrated bird, I asked Miss
+Boring, who was then in Woods Hole, to make some preparations and
+examine them to see if she could detect any such elements in them as she
+had found in the female. Miss Boring reported the occurrence of luteal
+cells in the testes from hen-feathered males, and the results have been
+published in a brief preliminary paper (1918). The abundance of these
+clear cells, supposedly gland-cells with endocrine influences, in the
+testes of hen-feathered birds is in sharp contrast to their absence in
+the normal adult cock birds. It seems to follow, therefore, that the
+hen-feathering in the Sebrights is due to the presence of these cells,
+whose function is the same as of the similar cells in the female, _i.
+e._, the suppression in both of cock-feathering. Castrating the Sebright
+produces its effect by the removal of these cells that are responsible
+for the suppression of cock-feathering.
+
+The occurrence of luteal cells in young stages of other races of poultry
+raises the question as to whether in these races the first or juvenile
+plumage, that resembles that of the hen rather than that of the cock,
+may not also be due to an internal secretion from these cells, or
+whether this juvenile plumage is only the plumage of a characteristic
+stage in development. Castration of young chicks ought to settle this
+point. Such castration experiments have been made by Goodale. The
+absence of any reference to any effect on the juvenile plumage in these
+early castrated birds probably meant that they did not develop
+precociously cock-feathering, and he writes me that he examined them
+carefully and that their plumage is like that of the normal chicks.
+Geoffrey Smith has reported the occurrence of two kinds of males in a
+race of Leghorns, the males of one of which become cock-feathered before
+the other. May not this difference depend on the length of time
+endocrine cells remain or begin to develop? A histological study of the
+two types would be of the greatest interest.
+
+
+
+
+ENDOCRINE CELLS IN THE TESTES OF MAMMALS.
+
+
+In man and other mammals it has long been recognized that in addition to
+the germinal cells of the testis there are also present other cells,
+sometimes called interstitial cells, that, so far as known, have no
+immediate function in connection with the germ-cells, or at least that
+have other important functions outside the relation to the reproductive
+organ. That some internal secretion from these cells has an important
+influence on the secondary sexual characters rather than anything done
+by or produced by the germinal cells has been very clearly shown by
+evidence derived from three separate sources, namely, from the operation
+known as vasectomy, from an exceptional condition known as
+cryptorchidism, and more indirectly from X-ray treatment. Vasectomy
+involves either cutting the vasa deferentia in such a way that the cut
+ends do not reunite. In consequence of the closure of the outlet of the
+testis the germinal cells slowly degenerate, and finally completely
+disappear. How such an effect is produced we do not know. That this
+result does take place is borne out by the unanimous testimony of all
+those who have successfully performed the operation. Ancel and Bouin
+showed (1903) that breaking the continuity of the vas deferens
+suppressed spermatogenesis in 8 to 12 months. Both the Sertoli cells
+(the nourishing cells of the germinal epithelium) and the interstitial
+cells persist. Such animals remain sexually active and their secondary
+sexual characters are not affected. Marshall states that in the hedgehog
+the remarkable periodic enlargement of the testis takes place even after
+vasectomy, although the germ-cells have disappeared.
+
