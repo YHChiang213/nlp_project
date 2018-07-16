@@ -6,8 +6,6 @@ import re, string, unicodedata
 import inflect
 from nltk.stem import LancasterStemmer, WordNetLemmatizer
 from nltk.stem.snowball import SnowballStemmer
-import collections
-from sklearn import preprocessing, neighbors
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.utils import shuffle
@@ -37,45 +35,6 @@ def readTxt(path):
 	#print len(rtn)
 	return rtn 
 
-def featurize(sent, word_tokenizer, top_word, all_token, freq_word, pos_list):
-	rtn = []
-	token = nltk.word_tokenize(sent.lower())
-	words = word_tokenizer.tokenize(sent.lower())
-	p = inflect.engine()
-	stemmer = LancasterStemmer()
-	lemmatizer = WordNetLemmatizer()
-	new_word = []
-	for w in words:
-		tmp2 = re.sub(r'[^\w\s]', '', w)
-		if tmp2.isdigit():
-			tmp3 =  p.number_to_words(tmp2)
-		else:
-			tmp3 = tmp2
-		if tmp3 not in stopwords.words('english'):
-			stem = stemmer.stem(tmp3)
-			lemma = lemmatizer.lemmatize(stem, pos='v')
-			new_word.append(lemma)
-	vocab = set(words)
-
-	num_word = len(sent)
-	num_new_word = len(new_word)
-	div_word = len(vocab)/float(len(new_word)) if len(new_word) != 0 else 0
-	num_comma = token.count(',')
-	num_semi = token.count(';')
-	num_col = token.count(':')
-	num_dig = sum(t.isdigit() for t in new_word)
-	rtn = [num_word, num_new_word, div_word, num_comma, num_semi, num_col, num_dig]
-
-	for j in range(top_word):
-		rtn.append(new_word.count(freq_word[j]))
-
-	tmp = []
-	pos = nltk.pos_tag(new_word)
-	for p in pos:
-		tmp.append(p[1])
-	for j in range(len(pos_list)):
-		rtn.append(tmp.count(pos_list[j]))
-	return rtn
 def training(sent_train, train_y):
 	count_vect = CountVectorizer()
 	x_train_count = count_vect.fit_transform(sent_train)
